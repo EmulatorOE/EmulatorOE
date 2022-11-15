@@ -1,0 +1,19 @@
+<html>
+<head>
+<style>
+.center {
+  text-align: center;
+  border: 3px solid green;
+}
+</style>
+</head>
+<body>
+
+<h2>Center Text</h2>
+
+<div class="center">
+  <p><a href="script.js">test align-ment</a></p>
+</div>
+
+</body>
+</html>
