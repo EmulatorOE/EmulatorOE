@@ -1,4 +1,4 @@
-### can someone help me make an holy unblocker?
+im hoping i can help make EmulatorOS i know who made them cuz i go to a certian place with them
 
 <!--
 **EmulatorOE/EmulatorOE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
